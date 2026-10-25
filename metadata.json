@@ -1,0 +1,6 @@
+{
+  "name": "Rajasthan GK Quiz",
+  "description": "राजस्थान इतिहास एवं कला-संस्कृति के प्रामाणिक नोट्स पर आधारित इंटरैक्टिव क्विज ऐप जिसमें कोई भी सवाल दोबारा नहीं दोहराया जाता और अंत में विस्तृत स्कोरकार्ड व विश्लेषण मिलता है।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

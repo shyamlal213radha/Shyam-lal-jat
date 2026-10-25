@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Fort Battlements Top Crown -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M34,30 h8 v5 h8 v-5 h8 v5 h8 v-5 h8 v10 h-40 z" />
+    <!-- Royal Shield / Arch Body -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M34,42 h40 v18 c0,15 -14,24 -20,26 c-6,-2 -20,-11 -20,-26 z" />
+    <!-- Inner Shield Accent -->
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M38,45 h32 v15 c0,12 -11,19 -16,21 c-5,-2 -16,-9 -16,-21 z" />
+    <!-- Quiz Symbol: Bright Golden Question Mark & Star -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M54,48 c-4,0 -6.5,2.5 -6.5,5.5 h4 c0,-1.5 1.2,-2.5 2.5,-2.5 c1.5,0 2.5,1 2.5,2.2 c0,1.2 -0.8,2 -2.5,3.3 c-2,1.5 -2.5,2.7 -2.5,5.5 h4 c0,-1.8 0.5,-2.5 2,-3.6 c2,-1.5 3,-3 3,-5 c0,-3 -3,-5.4 -6.5,-5.4 z" />
+    <!-- Dot of question mark -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M54,67.5 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0" />
+    <!-- Star at top -->
+    <path
+        android:fillColor="#FFFBEB"
+        android:pathData="M54,23 L55.5,27 L59.5,27.5 L56.5,30 L57.5,34 L54,32 L50.5,34 L51.5,30 L48.5,27.5 L52.5,27 Z" />
+</vector>
